@@ -34,7 +34,10 @@ Data Engineers, аналитики, архитекторы данных и ру�
 
 **Багнур Медетбек** — Data Engineer.
 
-Обсуждение и вопросы — в комментариях к публикации в LinkedIn или через Issues этого репозитория.
+- LinkedIn: [linkedin.com/in/bagnur-medetbek](https://www.linkedin.com/in/bagnur-medetbek)
+- Email: [bagnur.nurzhanuly@gmail.com](mailto:bagnur.nurzhanuly@gmail.com)
+
+Обсуждение и вопросы — в комментариях к публикации в LinkedIn, через Issues этого репозитория или по почте.
 
 ---
 
